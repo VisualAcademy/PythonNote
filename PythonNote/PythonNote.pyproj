@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>For.py</StartupFile>
+    <StartupFile>ListDemo.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -29,6 +29,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="LambdaFunction.py" />
+    <Compile Include="ListDemo.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PythonNote.py" />
     <Compile Include="ScoreGrade.py" />
   </ItemGroup>
