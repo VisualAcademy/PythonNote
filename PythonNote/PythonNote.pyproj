@@ -22,18 +22,89 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Calculator.py" />
+    <Compile Include="ClassPass.py" />
+    <Compile Include="ConditionalOperator.py" />
+    <Compile Include="Constructor.py" />
+    <Compile Include="ConstructorParameter.py" />
+    <Compile Include="DictionaryDemo.py" />
+    <Compile Include="ElIf.py" />
+    <Compile Include="Else.py" />
+    <Compile Include="FileReadLines.py" />
+    <Compile Include="FileWrite.py" />
+    <Compile Include="FlaskHelloWorld.py" />
     <Compile Include="For.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ForDemo.py" />
+    <Compile Include="ForSum100.py" />
+    <Compile Include="FunctionDemo.py" />
+    <Compile Include="FunctionParameter.py" />
+    <Compile Include="FunctionReturnValue.py" />
+    <Compile Include="GetSumTwoNumber.py" />
+    <Compile Include="HeartTest.py" />
     <Compile Include="HelloWorld.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="HelloWorld20170501.py" />
+    <Compile Include="If.py" />
+    <Compile Include="IfAnd.py" />
+    <Compile Include="IfDemo.py" />
+    <Compile Include="IfElseFormat.py" />
+    <Compile Include="IfNested.py" />
+    <Compile Include="InputDemo.py" />
+    <Compile Include="IntFloat.py" />
     <Compile Include="LambdaFunction.py" />
     <Compile Include="ListDemo.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="MaxFunction.py" />
+    <Compile Include="OperatorPlus.py" />
+    <Compile Include="Person.py" />
+    <Compile Include="PyCharm.py" />
+    <Compile Include="Python2018.py" />
+    <Compile Include="PythonHello.py" />
     <Compile Include="PythonNote.py" />
+    <Compile Include="PythonPrint.py" />
+    <Compile Include="PythonStart.py" />
+    <Compile Include="Python_3_6_2.py" />
+    <Compile Include="RandomModuleRandomFunction.py" />
+    <Compile Include="ReadLines\ReadLines.py" />
+    <Compile Include="Remainder.py" />
     <Compile Include="ScoreGrade.py" />
+    <Compile Include="StringFunction.py" />
+    <Compile Include="StringInterpolation.py" />
+    <Compile Include="TernaryOperator.py" />
+    <Compile Include="ToStringMethod.py" />
+    <Compile Include="Try.py" />
+    <Compile Include="TryExceptDemo.py" />
+    <Compile Include="TypeHint.py" />
+    <Compile Include="While.py" />
+    <Compile Include="WhileDemo.py" />
+    <Compile Include="WhileFibonacci.py" />
+    <Compile Include="WhileLoop.py" />
+    <Compile Include="WhileSum.py" />
+    <Compile Include="변수.py" />
+    <Compile Include="이름입력받기.py" />
+    <Compile Include="제어문_조건문.py" />
+    <Compile Include="함수 정의 및 호출.py" />
+    <Compile Include="함수_매개변수가 있는 함수.py" />
+    <Compile Include="함수_반환값이 있는 함수.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ReadLines\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ForDemo.py.txt" />
+    <Content Include="ForSum100.py.txt" />
+    <Content Include="FunctionDemo.py.txt" />
+    <Content Include="FunctionParameter.py.txt" />
+    <Content Include="FunctionReturnValue.py.txt" />
+    <Content Include="IfDemo.py.txt" />
+    <Content Include="PythonBoolDemo.txt" />
+    <Content Include="ReadLines\abc1229.txt" />
+    <Content Include="WhileDemo.py.txt" />
+    <Content Include="WhileSum.py.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

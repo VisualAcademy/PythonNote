@@ -1,0 +1,31 @@
+>>> True
+True
+>>> False
+False
+>>> bool(0)
+False
+>>> bool(1)
+True
+>>> bool(1234)
+True
+>>> bool(-1)
+True
+>>> bool(-0.1)
+True
+>>> bool(-0.001)
+True
+>>> bool(0.1)
+True
+>>> bool("")
+False
+>>> bool("AAAA")
+True
+>>> bool("True")
+True
+>>> bool("False")
+True
+>>> bool([])
+False
+>>> bool([1, 2, 3])
+True
+>>> 

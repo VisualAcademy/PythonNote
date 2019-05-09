@@ -1,0 +1,14 @@
+# 함수: 반환값(Return Value)이 있는 함수
+
+# 함수 선언
+def add(f, s):      # 입력: Input
+    r = f + s       # 처리: Process
+    return r        # 출력: Output
+
+# 함수 호출
+sum = add(3, 5)
+
+# 결괏값을 사용
+print(sum)
+
+
