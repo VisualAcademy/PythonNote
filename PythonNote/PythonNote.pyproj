@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ScoreGrade.py</StartupFile>
+    <StartupFile>LambdaFunction.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,7 @@
     <Compile Include="HelloWorld.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="LambdaFunction.py" />
     <Compile Include="PythonNote.py" />
     <Compile Include="ScoreGrade.py" />
   </ItemGroup>
