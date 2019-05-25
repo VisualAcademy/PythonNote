@@ -5,3 +5,6 @@ colors = ["Red", "Green", "Blue"]
 for c in colors:
     print(c)
 
+# 인덱스와 항목을 함께 출력
+for i, c in enumerate(colors):
+    print(i, c)

@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>19_Etc\BreakDemo.py</StartupFile>
+    <StartupFile>24_DateTime\DateTimeDemo.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -28,8 +28,17 @@
     <Compile Include="19_Etc\BreakDemo.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="24_DateTime\DateTimeDemo.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="32_Class\CarClass.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="43_Inheritance\InheritanceDemo.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Calculator.py" />
-    <Compile Include="ClassPass.py" />
+    <Compile Include="32_Class\ClassPass.py" />
     <Compile Include="ConditionalOperator.py" />
     <Compile Include="Constructor.py" />
     <Compile Include="ConstructorParameter.py" />
@@ -112,6 +121,9 @@
     <Folder Include="18_ForIn\" />
     <Folder Include="19_Etc\" />
     <Folder Include="14_If\" />
+    <Folder Include="32_Class\" />
+    <Folder Include="43_Inheritance\" />
+    <Folder Include="24_DateTime\" />
     <Folder Include="ReadLines\" />
   </ItemGroup>
   <ItemGroup>
