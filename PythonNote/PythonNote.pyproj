@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>HelloWorld.py</StartupFile>
+    <StartupFile>19_Etc\BreakDemo.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,14 +22,20 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="18_ForIn\ForIn.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="19_Etc\BreakDemo.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Calculator.py" />
     <Compile Include="ClassPass.py" />
     <Compile Include="ConditionalOperator.py" />
     <Compile Include="Constructor.py" />
     <Compile Include="ConstructorParameter.py" />
     <Compile Include="DictionaryDemo.py" />
-    <Compile Include="ElIf.py" />
-    <Compile Include="Else.py" />
+    <Compile Include="15_Else\ElIf.py" />
+    <Compile Include="15_Else\Else.py" />
     <Compile Include="FileReadLines.py" />
     <Compile Include="FileWrite.py" />
     <Compile Include="FlaskHelloWorld.py" />
@@ -39,6 +45,9 @@
     <Compile Include="ForDemo.py" />
     <Compile Include="ForSum100.py" />
     <Compile Include="FunctionDemo.py" />
+    <Compile Include="FunctionGlobal.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="FunctionParameter.py" />
     <Compile Include="FunctionReturnValue.py" />
     <Compile Include="GetSumTwoNumber.py" />
@@ -47,11 +56,11 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="HelloWorld20170501.py" />
-    <Compile Include="If.py" />
-    <Compile Include="IfAnd.py" />
-    <Compile Include="IfDemo.py" />
-    <Compile Include="IfElseFormat.py" />
-    <Compile Include="IfNested.py" />
+    <Compile Include="14_If\If.py" />
+    <Compile Include="14_If\IfAnd.py" />
+    <Compile Include="14_If\IfDemo.py" />
+    <Compile Include="15_Else\IfElseFormat.py" />
+    <Compile Include="14_If\IfNested.py" />
     <Compile Include="InputDemo.py" />
     <Compile Include="IntFloat.py" />
     <Compile Include="LambdaFunction.py" />
@@ -61,6 +70,9 @@
     <Compile Include="MaxFunction.py" />
     <Compile Include="OperatorPlus.py" />
     <Compile Include="Person.py" />
+    <Compile Include="Function\PowerFunction.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PyCharm.py" />
     <Compile Include="Python2018.py" />
     <Compile Include="PythonHello.py" />
@@ -72,7 +84,7 @@
     <Compile Include="ReadLines\ReadLines.py" />
     <Compile Include="Remainder.py" />
     <Compile Include="ScoreGrade.py" />
-    <Compile Include="StringFunction.py" />
+    <Compile Include="Function\StringFunction.py" />
     <Compile Include="StringInterpolation.py" />
     <Compile Include="TernaryOperator.py" />
     <Compile Include="ToStringMethod.py" />
@@ -84,6 +96,9 @@
     <Compile Include="WhileFibonacci.py" />
     <Compile Include="WhileLoop.py" />
     <Compile Include="WhileSum.py" />
+    <Compile Include="__name__.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="변수.py" />
     <Compile Include="이름입력받기.py" />
     <Compile Include="제어문_조건문.py" />
@@ -92,15 +107,18 @@
     <Compile Include="함수_반환값이 있는 함수.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Function\" />
+    <Folder Include="15_Else\" />
+    <Folder Include="18_ForIn\" />
+    <Folder Include="19_Etc\" />
+    <Folder Include="14_If\" />
     <Folder Include="ReadLines\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="ForDemo.py.txt" />
     <Content Include="ForSum100.py.txt" />
-    <Content Include="FunctionDemo.py.txt" />
     <Content Include="FunctionParameter.py.txt" />
     <Content Include="FunctionReturnValue.py.txt" />
-    <Content Include="IfDemo.py.txt" />
     <Content Include="PythonBoolDemo.txt" />
     <Content Include="ReadLines\abc1229.txt" />
     <Content Include="WhileDemo.py.txt" />

@@ -11,5 +11,3 @@ elif score >= 60:
 else: 
     print("F")
 
-
-    
