@@ -28,6 +28,9 @@
     <Compile Include="19_Etc\BreakDemo.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="24_DateTime\CalendarDemo.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="24_DateTime\DateTimeDemo.py">
       <SubType>Code</SubType>
     </Compile>
@@ -37,6 +40,7 @@
     <Compile Include="43_Inheritance\InheritanceDemo.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="57_IO\OsInfo.py" />
     <Compile Include="Calculator.py" />
     <Compile Include="32_Class\ClassPass.py" />
     <Compile Include="ConditionalOperator.py" />
@@ -96,6 +100,10 @@
     <Compile Include="Function\StringFunction.py" />
     <Compile Include="StringInterpolation.py" />
     <Compile Include="TernaryOperator.py" />
+    <Compile Include="57_IO\TextFileRead.py" />
+    <Compile Include="57_IO\TextFileCreate.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="ToStringMethod.py" />
     <Compile Include="Try.py" />
     <Compile Include="TryExceptDemo.py" />
@@ -124,6 +132,7 @@
     <Folder Include="32_Class\" />
     <Folder Include="43_Inheritance\" />
     <Folder Include="24_DateTime\" />
+    <Folder Include="57_IO\" />
     <Folder Include="ReadLines\" />
   </ItemGroup>
   <ItemGroup>
