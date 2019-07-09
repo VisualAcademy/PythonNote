@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>24_DateTime\DateTimeDemo.py</StartupFile>
+    <StartupFile>26_Random\RandomDemo.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -52,17 +52,17 @@
     <Compile Include="FileReadLines.py" />
     <Compile Include="FileWrite.py" />
     <Compile Include="FlaskHelloWorld.py" />
-    <Compile Include="For.py">
+    <Compile Include="17_For\For.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="ForDemo.py" />
-    <Compile Include="ForSum100.py" />
-    <Compile Include="FunctionDemo.py" />
-    <Compile Include="FunctionGlobal.py">
+    <Compile Include="17_For\ForDemo.py" />
+    <Compile Include="17_For\ForSum100.py" />
+    <Compile Include="21_Function\FunctionDemo.py" />
+    <Compile Include="21_Function\FunctionGlobal.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="FunctionParameter.py" />
-    <Compile Include="FunctionReturnValue.py" />
+    <Compile Include="21_Function\FunctionParameter.py" />
+    <Compile Include="21_Function\FunctionReturnValue.py" />
     <Compile Include="GetSumTwoNumber.py" />
     <Compile Include="HeartTest.py" />
     <Compile Include="HelloWorld.py">
@@ -93,6 +93,9 @@
     <Compile Include="PythonPrint.py" />
     <Compile Include="PythonStart.py" />
     <Compile Include="Python_3_6_2.py" />
+    <Compile Include="26_Random\RandomDemo.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="RandomModuleRandomFunction.py" />
     <Compile Include="ReadLines\ReadLines.py" />
     <Compile Include="Remainder.py" />
@@ -108,11 +111,11 @@
     <Compile Include="Try.py" />
     <Compile Include="TryExceptDemo.py" />
     <Compile Include="TypeHint.py" />
-    <Compile Include="While.py" />
-    <Compile Include="WhileDemo.py" />
-    <Compile Include="WhileFibonacci.py" />
-    <Compile Include="WhileLoop.py" />
-    <Compile Include="WhileSum.py" />
+    <Compile Include="18_While_Do_ForEach\While.py" />
+    <Compile Include="18_While_Do_ForEach\WhileDemo.py" />
+    <Compile Include="18_While_Do_ForEach\WhileFibonacci.py" />
+    <Compile Include="18_While_Do_ForEach\WhileLoop.py" />
+    <Compile Include="18_While_Do_ForEach\WhileSum.py" />
     <Compile Include="__name__.py">
       <SubType>Code</SubType>
     </Compile>
@@ -133,17 +136,21 @@
     <Folder Include="43_Inheritance\" />
     <Folder Include="24_DateTime\" />
     <Folder Include="57_IO\" />
+    <Folder Include="26_Random\" />
+    <Folder Include="17_For\" />
+    <Folder Include="18_While_Do_ForEach\" />
+    <Folder Include="21_Function\" />
     <Folder Include="ReadLines\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ForDemo.py.txt" />
-    <Content Include="ForSum100.py.txt" />
-    <Content Include="FunctionParameter.py.txt" />
-    <Content Include="FunctionReturnValue.py.txt" />
+    <Content Include="17_For\ForDemo.py.txt" />
+    <Content Include="17_For\ForSum100.py.txt" />
+    <Content Include="21_Function\FunctionParameter.py.txt" />
+    <Content Include="21_Function\FunctionReturnValue.py.txt" />
     <Content Include="PythonBoolDemo.txt" />
     <Content Include="ReadLines\abc1229.txt" />
-    <Content Include="WhileDemo.py.txt" />
-    <Content Include="WhileSum.py.txt" />
+    <Content Include="18_While_Do_ForEach\WhileDemo.py.txt" />
+    <Content Include="18_While_Do_ForEach\WhileSum.py.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
