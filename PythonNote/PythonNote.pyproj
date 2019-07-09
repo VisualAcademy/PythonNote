@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>26_Random\RandomDemo.py</StartupFile>
+    <StartupFile>40_Lambda\LambdaExpressionWithPredicate.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -28,13 +28,31 @@
     <Compile Include="19_Etc\BreakDemo.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="20_Array\ArrayAppend.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="20_Array\ArrayForEach.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="24_DateTime\CalendarDemo.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="24_DateTime\DateTimeDemo.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="32_Class\AnonymousTypeDemo.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="32_Class\CarClass.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="38_Property\AtProperty.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="39_Indexer\IteratorDemo.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="40_Lambda\LambdaExpressionWithPredicate.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="43_Inheritance\InheritanceDemo.py">
@@ -43,9 +61,9 @@
     <Compile Include="57_IO\OsInfo.py" />
     <Compile Include="Calculator.py" />
     <Compile Include="32_Class\ClassPass.py" />
-    <Compile Include="ConditionalOperator.py" />
-    <Compile Include="Constructor.py" />
-    <Compile Include="ConstructorParameter.py" />
+    <Compile Include="13_ConditionalOperator\ConditionalOperator.py" />
+    <Compile Include="35_Constructor\Constructor.py" />
+    <Compile Include="35_Constructor\ConstructorParameter.py" />
     <Compile Include="DictionaryDemo.py" />
     <Compile Include="15_Else\ElIf.py" />
     <Compile Include="15_Else\Else.py" />
@@ -65,10 +83,10 @@
     <Compile Include="21_Function\FunctionReturnValue.py" />
     <Compile Include="GetSumTwoNumber.py" />
     <Compile Include="HeartTest.py" />
-    <Compile Include="HelloWorld.py">
+    <Compile Include="03_HelloWorld\HelloWorld.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="HelloWorld20170501.py" />
+    <Compile Include="03_HelloWorld\HelloWorld20170501.py" />
     <Compile Include="14_If\If.py" />
     <Compile Include="14_If\IfAnd.py" />
     <Compile Include="14_If\IfDemo.py" />
@@ -107,7 +125,7 @@
     <Compile Include="57_IO\TextFileCreate.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="ToStringMethod.py" />
+    <Compile Include="32_Class\ToStringMethod.py" />
     <Compile Include="Try.py" />
     <Compile Include="TryExceptDemo.py" />
     <Compile Include="TypeHint.py" />
@@ -140,6 +158,14 @@
     <Folder Include="17_For\" />
     <Folder Include="18_While_Do_ForEach\" />
     <Folder Include="21_Function\" />
+    <Folder Include="20_Array\" />
+    <Folder Include="35_Constructor\" />
+    <Folder Include="NewFolder1\" />
+    <Folder Include="03_HelloWorld\" />
+    <Folder Include="39_Indexer\" />
+    <Folder Include="38_Property\" />
+    <Folder Include="40_Lambda\" />
+    <Folder Include="13_ConditionalOperator\" />
     <Folder Include="ReadLines\" />
   </ItemGroup>
   <ItemGroup>
