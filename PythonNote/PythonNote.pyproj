@@ -176,6 +176,7 @@
     <Content Include="17_For\ForSum100.py.txt" />
     <Content Include="21_Function\FunctionParameter.py.txt" />
     <Content Include="21_Function\FunctionReturnValue.py.txt" />
+    <Content Include="Python 기초 입문.pdf" />
     <Content Include="PythonBoolDemo.txt" />
     <Content Include="ReadLines\abc1229.txt" />
     <Content Include="18_While_Do_ForEach\WhileDemo.py.txt" />
