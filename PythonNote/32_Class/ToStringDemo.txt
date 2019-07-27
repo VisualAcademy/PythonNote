@@ -1,0 +1,8 @@
+>>> class ToStringDemo(object):
+...     def __str__(self):
+...         return "ToString() Method Demo"
+... 
+>>> tsd = ToStringDemo()
+>>> print(tsd)
+ToString() Method Demo
+>>> 
