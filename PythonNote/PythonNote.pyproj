@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>27_String\StringFunction.py</StartupFile>
+    <StartupFile>Algorithms\08_SortAlgorithm\SortAlgorithm.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -71,6 +71,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="57_IO\OsInfo.py" />
+    <Compile Include="Algorithms\08_SortAlgorithm\SortAlgorithm.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Calculator.py" />
     <Compile Include="32_Class\ClassPass.py" />
     <Compile Include="13_ConditionalOperator\ConditionalOperator.py" />
@@ -184,6 +187,8 @@
     <Folder Include="02_Tools\" />
     <Folder Include="28_Exception\" />
     <Folder Include="57_IO\ReadLines\" />
+    <Folder Include="Algorithms\" />
+    <Folder Include="Algorithms\08_SortAlgorithm\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="17_For\ForDemo.py.txt" />
