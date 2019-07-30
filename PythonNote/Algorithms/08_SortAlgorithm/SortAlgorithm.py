@@ -1,9 +1,10 @@
 #[1] Input
 numbers = [3, 2, 1, 5, 4]
+N = len(numbers)
 
 #[2] Process: Selection Sort(선택 정렬) 알고리즘
-for i in range(len(numbers) - 1):
-    for j in range(i + 1, len(numbers)):
+for i in range(N - 1):
+    for j in range(i + 1, N):
         if (numbers[i] > numbers[j]):
             temp = numbers[i]
             numbers[i] = numbers[j]
@@ -12,3 +13,4 @@ for i in range(len(numbers) - 1):
 #[2] Output
 for i in range(len(numbers)):
     print(numbers[i])
+
