@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Algorithms\08_SortAlgorithm\SortAlgorithm.py</StartupFile>
+    <StartupFile>Algorithms\09_SearchAlgorithm\SearchAlgorithm.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -72,6 +72,9 @@
     </Compile>
     <Compile Include="57_IO\OsInfo.py" />
     <Compile Include="Algorithms\08_SortAlgorithm\SortAlgorithm.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Algorithms\09_SearchAlgorithm\SearchAlgorithm.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Calculator.py" />
@@ -189,6 +192,7 @@
     <Folder Include="57_IO\ReadLines\" />
     <Folder Include="Algorithms\" />
     <Folder Include="Algorithms\08_SortAlgorithm\" />
+    <Folder Include="Algorithms\09_SearchAlgorithm\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="17_For\ForDemo.py.txt" />
