@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Algorithms\09_SearchAlgorithm\SearchAlgorithm.py</StartupFile>
+    <StartupFile>07_BoolCharString\StringInterpolation.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,9 @@
     <Compile Include="06_Number\NumberDemo.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="07_BoolCharString\StringInterpolation.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="09_Operator\OperatorDescription.py">
       <SubType>Code</SubType>
     </Compile>
@@ -38,6 +41,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="20_Array\ArrayForEach.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="20_Array\ArrayInitialize.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="24_DateTime\CalendarDemo.py">
@@ -75,6 +81,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Algorithms\09_SearchAlgorithm\SearchAlgorithm.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Algorithms\10_ModeAlgorithm\ModeAlgorithm.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Calculator.py" />
@@ -193,6 +202,8 @@
     <Folder Include="Algorithms\" />
     <Folder Include="Algorithms\08_SortAlgorithm\" />
     <Folder Include="Algorithms\09_SearchAlgorithm\" />
+    <Folder Include="Algorithms\10_ModeAlgorithm\" />
+    <Folder Include="07_BoolCharString\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="17_For\ForDemo.py.txt" />
