@@ -31,7 +31,7 @@
     <Compile Include="09_Operator\OperatorDescription.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="18_ForIn\ForIn.py">
+    <Compile Include="18_While_Do_ForEach\ForIn.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="19_Etc\BreakDemo.py">
@@ -172,7 +172,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="15_Else\" />
-    <Folder Include="18_ForIn\" />
     <Folder Include="19_Etc\" />
     <Folder Include="14_If\" />
     <Folder Include="32_Class\" />
