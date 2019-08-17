@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Algorithms\11_ModeAlgorithm\ModeAlgorithm.py</StartupFile>
+    <StartupFile>32_Algorithms\11_ModeAlgorithm\ModeAlgorithm.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -55,6 +55,17 @@
     <Compile Include="27_String\StringFunction.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="32_Algorithms\02_CountAlgorithm\CountAlgorithm.py" />
+    <Compile Include="32_Algorithms\03_AverageAlgorithm\03_AverageAlgorithm.py" />
+    <Compile Include="32_Algorithms\04_MaxAlgorithm\MaxAlgorithm.py" />
+    <Compile Include="32_Algorithms\05_MinAlgorithm\MinAlgorithm.py" />
+    <Compile Include="32_Algorithms\06_NearAlgorithm\NearAlgorithm.py" />
+    <Compile Include="32_Algorithms\07_RankAlgorithm\RankAlgorithm.py" />
+    <Compile Include="32_Algorithms\08_SortAlgorithm\SortAlgorithm.py" />
+    <Compile Include="32_Algorithms\09_SearchAlgorithm\SearchAlgorithm.py" />
+    <Compile Include="32_Algorithms\10_MergeAlgorithm\MergeAlgorithm.py" />
+    <Compile Include="32_Algorithms\11_ModeAlgorithm\ModeAlgorithm.py" />
+    <Compile Include="32_Algorithms\12_GroupAlgorithm\GroupAlgorithm.py" />
     <Compile Include="32_Class\AnonymousTypeDemo.py">
       <SubType>Code</SubType>
     </Compile>
@@ -78,39 +89,6 @@
     </Compile>
     <Compile Include="57_IO\OsInfo.py" />
     <Compile Include="32_Algorithms\01_SumAlgorithm\SumAlgorithm.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Algorithms\02_CountAlgorithm\CountAlgorithm.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Algorithms\03_AverageAlgorithm\03_AverageAlgorithm.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Algorithms\04_MaxAlgorithm\MaxAlgorithm.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Algorithms\05_MinAlgorithm\MinAlgorithm.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Algorithms\06_NearAlgorithm\NearAlgorithm.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Algorithms\07_RankAlgorithm\RankAlgorithm.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Algorithms\08_SortAlgorithm\SortAlgorithm.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Algorithms\09_SearchAlgorithm\SearchAlgorithm.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Algorithms\11_ModeAlgorithm\ModeAlgorithm.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Algorithms\10_MergeAlgorithm\MergeAlgorithm.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Algorithms\12_GroupAlgorithm\GroupAlgorithm.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Calculator.py" />
@@ -201,6 +179,17 @@
     <Folder Include="15_Else\" />
     <Folder Include="19_Etc\" />
     <Folder Include="14_If\" />
+    <Folder Include="32_Algorithms\02_CountAlgorithm\" />
+    <Folder Include="32_Algorithms\03_AverageAlgorithm\" />
+    <Folder Include="32_Algorithms\04_MaxAlgorithm\" />
+    <Folder Include="32_Algorithms\05_MinAlgorithm\" />
+    <Folder Include="32_Algorithms\06_NearAlgorithm\" />
+    <Folder Include="32_Algorithms\07_RankAlgorithm\" />
+    <Folder Include="32_Algorithms\08_SortAlgorithm\" />
+    <Folder Include="32_Algorithms\09_SearchAlgorithm\" />
+    <Folder Include="32_Algorithms\10_MergeAlgorithm\" />
+    <Folder Include="32_Algorithms\11_ModeAlgorithm\" />
+    <Folder Include="32_Algorithms\12_GroupAlgorithm\" />
     <Folder Include="32_Class\" />
     <Folder Include="43_Inheritance\" />
     <Folder Include="24_DateTime\" />
@@ -226,19 +215,8 @@
     <Folder Include="28_Exception\" />
     <Folder Include="57_IO\ReadLines\" />
     <Folder Include="32_Algorithms\" />
-    <Folder Include="Algorithms\08_SortAlgorithm\" />
-    <Folder Include="Algorithms\09_SearchAlgorithm\" />
-    <Folder Include="Algorithms\11_ModeAlgorithm\" />
     <Folder Include="07_BoolCharString\" />
-    <Folder Include="Algorithms\10_MergeAlgorithm\" />
     <Folder Include="32_Algorithms\01_SumAlgorithm\" />
-    <Folder Include="Algorithms\02_CountAlgorithm\" />
-    <Folder Include="Algorithms\03_AverageAlgorithm\" />
-    <Folder Include="Algorithms\04_MaxAlgorithm\" />
-    <Folder Include="Algorithms\05_MinAlgorithm\" />
-    <Folder Include="Algorithms\06_NearAlgorithm\" />
-    <Folder Include="Algorithms\07_RankAlgorithm\" />
-    <Folder Include="Algorithms\12_GroupAlgorithm\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="17_For\ForDemo.py.txt" />
