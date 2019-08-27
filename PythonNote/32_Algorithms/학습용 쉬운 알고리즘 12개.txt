@@ -1,6 +1,6 @@
 학습용 쉬운 알고리즘 12개: 
 
-박용준 강사
+박용준 강사(https://www.visualacademy.com)
 
 "타이핑 및 결과 확인 그리고 이해하려고 노력 with (디버깅/디버거)"
 
@@ -8,7 +8,7 @@
 - 개수 알고리즘: CountAlgorithm.py, CountAlgorithm.java, CountAlgorithm.js, ...
 - 평균 알고리즘: AverageAlgorithm.cs 
 - 최댓값 알고리즘: MaxAlgorithm.py, 결괏값, 변숫값
-- 최솟값 알고리즘: MinAlgorithm
+- 최솟값 알고리즘: MinAlgorithm.py
 - 근삿값 알고리즘: NearAlgorithm, 가까운 값
 - 순위 알고리즘: RankAlgorithm, 등수 
 - 정렬 알고리즘: SortAlgorithm, 선택 정렬(Selection Sort), Bubble Sort, Quick Sort, ... 
