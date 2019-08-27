@@ -7,7 +7,7 @@
 - 합계 알고리즘: SumAlgorithm.py, 수열, ..., 
 - 개수 알고리즘: CountAlgorithm.py, CountAlgorithm.java, CountAlgorithm.js, ...
 - 평균 알고리즘: AverageAlgorithm.cs 
-- 최댓값 알고리즘: MaxAlgorithm, 결괏값, 변숫값
+- 최댓값 알고리즘: MaxAlgorithm.py, 결괏값, 변숫값
 - 최솟값 알고리즘: MinAlgorithm
 - 근삿값 알고리즘: NearAlgorithm, 가까운 값
 - 순위 알고리즘: RankAlgorithm, 등수 
