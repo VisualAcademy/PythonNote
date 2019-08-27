@@ -1,4 +1,4 @@
-학습용 쉬운 알고리즘 12개: 
+<제목>Python을 사용한 - 학습용 쉬운 알고리즘 12개</제목>
 
 박용준 강사(https://www.visualacademy.com)
 
@@ -9,7 +9,7 @@
 - 평균 알고리즘: AverageAlgorithm.cs 
 - 최댓값 알고리즘: MaxAlgorithm.py, 결괏값, 변숫값
 - 최솟값 알고리즘: MinAlgorithm.py
-- 근삿값 알고리즘: NearAlgorithm, 가까운 값
+- 근삿값 알고리즘: NearAlgorithm.py, 가까운 값
 - 순위 알고리즘: RankAlgorithm, 등수 
 - 정렬 알고리즘: SortAlgorithm, 선택 정렬(Selection Sort), Bubble Sort, Quick Sort, ... 
 - 검색 알고리즘: SearchAlgorithm, 순차 검색, 이진 검색(Binary Search; 이분 탐색)
