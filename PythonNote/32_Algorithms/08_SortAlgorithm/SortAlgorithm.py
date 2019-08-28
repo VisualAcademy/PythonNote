@@ -7,7 +7,7 @@ for i in range(N - 1):
     for j in range(i + 1, N):
         if (numbers[i] > numbers[j]):
             temp = numbers[i]
-            numbers[i] = numbers[j]
+            numbers[j] = numbers[j + 1]
             numbers[j] = temp
 
 #[2] Output

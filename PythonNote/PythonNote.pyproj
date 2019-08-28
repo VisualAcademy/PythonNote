@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>32_Algorithms\07_RankAlgorithm\RankAlgorithm.py</StartupFile>
+    <StartupFile>32_Algorithms\08_SortAlgorithm\BubbleSortAlgorithm.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -64,6 +64,9 @@
     <Compile Include="32_Algorithms\05_MinAlgorithm\MinAlgorithm.py" />
     <Compile Include="32_Algorithms\06_NearAlgorithm\NearAlgorithm.py" />
     <Compile Include="32_Algorithms\07_RankAlgorithm\RankAlgorithm.py" />
+    <Compile Include="32_Algorithms\08_SortAlgorithm\BubbleSortAlgorithm.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="32_Algorithms\08_SortAlgorithm\SortAlgorithm.py" />
     <Compile Include="32_Algorithms\09_SearchAlgorithm\SearchAlgorithm.py" />
     <Compile Include="32_Algorithms\10_MergeAlgorithm\MergeAlgorithm.py" />
