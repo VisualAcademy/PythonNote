@@ -11,11 +11,11 @@
 - 최솟값 알고리즘: MinAlgorithm.py
 - 근삿값 알고리즘: NearAlgorithm.py, 가까운 값
 - 순위 알고리즘: RankAlgorithm.py, 등수 
-- 정렬 알고리즘: SortAlgorithm, 선택 정렬(Selection Sort), Bubble Sort, Quick Sort, ... 
-- 검색 알고리즘: SearchAlgorithm, 순차 검색, 이진 검색(Binary Search; 이분 탐색)
-- 병합 알고리즘: MergeAlgorithm, 병합 정렬
-- 최빈값 알고리즘: ModeAlgorithm
-- 그룹 알고리즘: GroupAlgorithm
+- 정렬 알고리즘: SortAlgorithm.py, 선택 정렬(Selection Sort), Bubble Sort, Quick Sort, ... 
+- 검색 알고리즘: SearchAlgorithm.py, 순차 검색, 이진 검색(Binary Search; 이분 탐색)
+- 병합 알고리즘: MergeAlgorithm.py, 병합 정렬
+- 최빈값 알고리즘: ModeAlgorithm.py
+- 그룹 알고리즘: GroupAlgorithm.py
 
 개발 도구:
 
