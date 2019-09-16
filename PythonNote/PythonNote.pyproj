@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>08_ReadLine\InputReadNumber\InputReadNumber.py</StartupFile>
+    <StartupFile>24_DateTime\DateTimeDemo.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -81,10 +81,10 @@
     <Compile Include="32_Algorithms\10_MergeAlgorithm\MergeAlgorithm.py" />
     <Compile Include="32_Algorithms\11_ModeAlgorithm\ModeAlgorithm.py" />
     <Compile Include="32_Algorithms\12_GroupAlgorithm\GroupAlgorithm.py" />
-    <Compile Include="32_Class\AnonymousTypeDemo.py">
+    <Compile Include="33_Object\AnonymousTypeDemo.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="32_Class\CarClass.py">
+    <Compile Include="33_Object\CarClass.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="38_Property\AtProperty.py">
@@ -99,7 +99,7 @@
     <Compile Include="40_Lambda\LambdaExpressionWithPredicate.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="43_Inheritance\InheritanceDemo.py">
+    <Compile Include="44_Inheritance\InheritanceDemo.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="57_IO\OsInfo.py" />
@@ -107,10 +107,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Calculator.py" />
-    <Compile Include="32_Class\ClassPass.py" />
+    <Compile Include="33_Object\ClassPass.py" />
     <Compile Include="13_ConditionalOperator\ConditionalOperator.py" />
-    <Compile Include="35_Constructor\Constructor.py" />
-    <Compile Include="35_Constructor\ConstructorParameter.py" />
+    <Compile Include="36_Constructor\Constructor.py" />
+    <Compile Include="36_Constructor\ConstructorParameter.py" />
     <Compile Include="DictionaryDemo.py" />
     <Compile Include="15_Else\ElIf.py" />
     <Compile Include="15_Else\Else.py" />
@@ -171,7 +171,7 @@
     <Compile Include="57_IO\TextFileCreate.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="32_Class\ToStringMethod.py" />
+    <Compile Include="33_Object\ToStringMethod.py" />
     <Compile Include="28_Exception\Try.py" />
     <Compile Include="28_Exception\TryExceptDemo.py" />
     <Compile Include="21_Function\TypeHint.py" />
@@ -208,8 +208,8 @@
     <Folder Include="32_Algorithms\10_MergeAlgorithm\" />
     <Folder Include="32_Algorithms\11_ModeAlgorithm\" />
     <Folder Include="32_Algorithms\12_GroupAlgorithm\" />
-    <Folder Include="32_Class\" />
-    <Folder Include="43_Inheritance\" />
+    <Folder Include="33_Object\" />
+    <Folder Include="44_Inheritance\" />
     <Folder Include="24_DateTime\" />
     <Folder Include="57_IO\" />
     <Folder Include="26_Random\" />
@@ -217,7 +217,7 @@
     <Folder Include="18_While_Do_ForEach\" />
     <Folder Include="21_Function\" />
     <Folder Include="20_Array\" />
-    <Folder Include="35_Constructor\" />
+    <Folder Include="36_Constructor\" />
     <Folder Include="03_HelloWorld\" />
     <Folder Include="39_Indexer\" />
     <Folder Include="38_Property\" />
@@ -237,15 +237,47 @@
     <Folder Include="32_Algorithms\01_SumAlgorithm\" />
     <Folder Include="01_Python\" />
     <Folder Include="04_Syntax\" />
+    <Folder Include="16_Switch\" />
+    <Folder Include="10_AssignmentIncrement\" />
+    <Folder Include="11_RelationalLogical\" />
+    <Folder Include="12_BitAndShift\" />
+    <Folder Include="22_Interactive\" />
+    <Folder Include="23_API\" />
+    <Folder Include="25_Enum\" />
+    <Folder Include="30_GenericClass\" />
+    <Folder Include="31_LINQ\" />
+    <Folder Include="34_Namespace\" />
+    <Folder Include="35_Field\" />
+    <Folder Include="37_Destructor\" />
+    <Folder Include="41_Delegate\" />
+    <Folder Include="42_Event\" />
+    <Folder Include="43_ClassEtc\" />
+    <Folder Include="45_Override\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="01_Python\ReadMe.txt" />
+    <Content Include="10_AssignmentIncrement\pass.txt" />
+    <Content Include="11_RelationalLogical\pass.txt" />
+    <Content Include="12_BitAndShift\pass.txt" />
+    <Content Include="16_Switch\pass.txt" />
     <Content Include="17_For\ForDemo.py.txt" />
     <Content Include="17_For\ForSum100.py.txt" />
     <Content Include="21_Function\FunctionParameter.py.txt" />
     <Content Include="21_Function\FunctionReturnValue.py.txt" />
+    <Content Include="22_Interactive\pass.txt" />
+    <Content Include="23_API\pass.txt" />
+    <Content Include="25_Enum\pass.txt" />
+    <Content Include="30_GenericClass\pass.txt" />
+    <Content Include="31_LINQ\pass.txt" />
     <Content Include="32_Algorithms\학습용 쉬운 알고리즘 12개.txt" />
-    <Content Include="32_Class\ToStringDemo.txt" />
+    <Content Include="33_Object\ToStringDemo.txt" />
+    <Content Include="34_Namespace\pass.txt" />
+    <Content Include="35_Field\pass.txt" />
+    <Content Include="37_Destructor\pass.txt" />
+    <Content Include="41_Delegate\pass.txt" />
+    <Content Include="42_Event\pass.txt" />
+    <Content Include="43_ClassEtc\pass.txt" />
+    <Content Include="45_Override\pass.txt" />
     <Content Include="Python 기초 입문.pdf" />
     <Content Include="PythonBoolDemo.txt" />
     <Content Include="57_IO\ReadLines\abc1229.txt" />
