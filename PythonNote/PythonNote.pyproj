@@ -223,8 +223,10 @@
     <Folder Include="32_Algorithms\" />
     <Folder Include="07_BoolCharString\" />
     <Folder Include="32_Algorithms\01_SumAlgorithm\" />
+    <Folder Include="01_Python\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="01_Python\ReadMe.txt" />
     <Content Include="17_For\ForDemo.py.txt" />
     <Content Include="17_For\ForSum100.py.txt" />
     <Content Include="21_Function\FunctionParameter.py.txt" />
