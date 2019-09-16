@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>32_Algorithms\12_GroupAlgorithm\GroupAlgorithm.py</StartupFile>
+    <StartupFile>08_ReadLine\InputReadNumber\InputReadNumber.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,10 +22,16 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="04_Syntax\FormatPractice\FormatPractice.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="06_Number\NumberDemo.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="07_BoolCharString\StringInterpolation.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="08_ReadLine\InputReadNumber\InputReadNumber.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="09_Operator\OperatorDescription.py">
@@ -50,6 +56,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="24_DateTime\DateTimeDemo.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="27_String\StringClassNote\StringClassNote.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="27_String\StringFunction.py">
@@ -182,9 +191,12 @@
     <Compile Include="21_Function\함수_반환값이 있는 함수.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="04_Syntax\FormatPractice\" />
+    <Folder Include="08_ReadLine\InputReadNumber\" />
     <Folder Include="15_Else\" />
     <Folder Include="19_Etc\" />
     <Folder Include="14_If\" />
+    <Folder Include="27_String\StringClassNote\" />
     <Folder Include="32_Algorithms\02_CountAlgorithm\" />
     <Folder Include="32_Algorithms\03_AverageAlgorithm\" />
     <Folder Include="32_Algorithms\04_MaxAlgorithm\" />
@@ -224,6 +236,7 @@
     <Folder Include="07_BoolCharString\" />
     <Folder Include="32_Algorithms\01_SumAlgorithm\" />
     <Folder Include="01_Python\" />
+    <Folder Include="04_Syntax\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="01_Python\ReadMe.txt" />
