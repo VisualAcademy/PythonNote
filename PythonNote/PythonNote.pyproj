@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>04_Syntax\FormatPractice\FormatPractice.py</StartupFile>
+    <StartupFile>59_Module\ImportModule\ImportModule.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -122,6 +122,12 @@
     <Compile Include="15_Else\Else.py" />
     <Compile Include="57_IO\FileReadLines.py" />
     <Compile Include="57_IO\FileWrite.py" />
+    <Compile Include="59_Module\ImportModule\ImportModule.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="59_Module\ImportModule\ModuleDefinition.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="99_Etc\FlaskHelloWorld.py" />
     <Compile Include="17_For\For.py">
       <SubType>Code</SubType>
@@ -260,8 +266,10 @@
     <Folder Include="42_Event\" />
     <Folder Include="43_ClassEtc\" />
     <Folder Include="45_Override\" />
+    <Folder Include="59_Module\ImportModule\" />
     <Folder Include="99_Etc\" />
     <Folder Include="50_Generic\" />
+    <Folder Include="59_Module\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="01_Python\ReadMe.txt" />
