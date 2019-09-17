@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>24_DateTime\DateTimeDemo.py</StartupFile>
+    <StartupFile>29_Collection\ListDemo.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -50,6 +50,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="20_Array\ArrayInitialize.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="20_Array\ArrayModule.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="24_DateTime\CalendarDemo.py">
@@ -100,6 +103,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="44_Inheritance\InheritanceDemo.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="50_Generic\DictionaryOfString\DictionaryOfString.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="57_IO\OsInfo.py" />
@@ -211,6 +217,7 @@
     <Folder Include="33_Object\" />
     <Folder Include="44_Inheritance\" />
     <Folder Include="24_DateTime\" />
+    <Folder Include="50_Generic\DictionaryOfString\" />
     <Folder Include="57_IO\" />
     <Folder Include="26_Class\" />
     <Folder Include="17_For\" />
@@ -254,6 +261,7 @@
     <Folder Include="43_ClassEtc\" />
     <Folder Include="45_Override\" />
     <Folder Include="99_Etc\" />
+    <Folder Include="50_Generic\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="01_Python\ReadMe.txt" />

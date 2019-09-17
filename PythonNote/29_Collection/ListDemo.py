@@ -11,7 +11,16 @@ print(colors[-3]) # red
 
 print(len(colors)) # 3
 
+# 범위
+print(colors[1:2])
 print(colors[1:]) # 1 인덱스 이후로 가져오기
 
 for color in colors:
     print(color)
+
+
+# 리스트에 값 추가
+colors.append("black")
+colors.append("white")
+
+print(colors)
