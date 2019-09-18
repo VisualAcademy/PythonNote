@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>59_Module\ImportModule\ImportModule.py</StartupFile>
+    <StartupFile>32_Algorithms\ArithmeticSequence\ArithmeticSequence.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -84,6 +84,9 @@
     <Compile Include="32_Algorithms\10_MergeAlgorithm\MergeAlgorithm.py" />
     <Compile Include="32_Algorithms\11_ModeAlgorithm\ModeAlgorithm.py" />
     <Compile Include="32_Algorithms\12_GroupAlgorithm\GroupAlgorithm.py" />
+    <Compile Include="32_Algorithms\ArithmeticSequence\ArithmeticSequence.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="33_Object\AnonymousTypeDemo.py">
       <SubType>Code</SubType>
     </Compile>
@@ -220,6 +223,7 @@
     <Folder Include="32_Algorithms\10_MergeAlgorithm\" />
     <Folder Include="32_Algorithms\11_ModeAlgorithm\" />
     <Folder Include="32_Algorithms\12_GroupAlgorithm\" />
+    <Folder Include="32_Algorithms\ArithmeticSequence\" />
     <Folder Include="33_Object\" />
     <Folder Include="44_Inheritance\" />
     <Folder Include="24_DateTime\" />
