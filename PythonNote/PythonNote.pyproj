@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>32_Algorithms\ArithmeticSequence\ArithmeticSequence.py</StartupFile>
+    <StartupFile>03_HelloWorld\HelloWorld2021.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="03_HelloWorld\HelloWorld2021.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="04_Syntax\FormatPractice\FormatPractice.py">
       <SubType>Code</SubType>
     </Compile>
