@@ -96,6 +96,7 @@
     <Compile Include="33_Object\CarClass.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="37_Method\ParamsDemo.py" />
     <Compile Include="38_Property\AtProperty.py">
       <SubType>Code</SubType>
     </Compile>
@@ -277,6 +278,7 @@
     <Folder Include="99_Etc\" />
     <Folder Include="50_Generic\" />
     <Folder Include="59_Module\" />
+    <Folder Include="37_Method\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="01_Python\ReadMe.txt" />
