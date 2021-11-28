@@ -140,13 +140,13 @@
     </Compile>
     <Compile Include="17_For\ForDemo.py" />
     <Compile Include="17_For\ForSum100.py" />
-    <Compile Include="21_Function\FunctionDemo.py" />
-    <Compile Include="21_Function\FunctionGlobal.py">
+    <Compile Include="19_Function\FunctionDemo.py" />
+    <Compile Include="19_Function\FunctionGlobal.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="21_Function\FunctionParameter.py" />
-    <Compile Include="21_Function\FunctionReturnValue.py" />
-    <Compile Include="21_Function\GetSumTwoNumber.py" />
+    <Compile Include="19_Function\FunctionParameter.py" />
+    <Compile Include="19_Function\FunctionReturnValue.py" />
+    <Compile Include="19_Function\GetSumTwoNumber.py" />
     <Compile Include="99_Etc\HeartTest.py" />
     <Compile Include="03_HelloWorld\HelloWorld.py">
       <SubType>Code</SubType>
@@ -163,7 +163,7 @@
     <Compile Include="29_Collection\ListDemo.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="21_Function\MaxFunction.py" />
+    <Compile Include="19_Function\MaxFunction.py" />
     <Compile Include="09_Operator\OperatorPlus.py" />
     <Compile Include="36_Constructor\Person.py" />
     <Compile Include="26_Class\PowerFunction.py">
@@ -192,21 +192,21 @@
     <Compile Include="33_Object\ToStringMethod.py" />
     <Compile Include="28_Exception\Try.py" />
     <Compile Include="28_Exception\TryExceptDemo.py" />
-    <Compile Include="21_Function\TypeHint.py" />
+    <Compile Include="19_Function\TypeHint.py" />
     <Compile Include="18_While_Do_ForEach\While.py" />
     <Compile Include="18_While_Do_ForEach\WhileDemo.py" />
     <Compile Include="18_While_Do_ForEach\WhileFibonacci.py" />
     <Compile Include="18_While_Do_ForEach\WhileLoop.py" />
     <Compile Include="18_While_Do_ForEach\WhileSum.py" />
-    <Compile Include="21_Function\__name__.py">
+    <Compile Include="19_Function\__name__.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="05_Variable\변수.py" />
     <Compile Include="08_ReadLine\이름입력받기.py" />
     <Compile Include="15_Else\제어문_조건문.py" />
-    <Compile Include="21_Function\함수 정의 및 호출.py" />
-    <Compile Include="21_Function\함수_매개변수가 있는 함수.py" />
-    <Compile Include="21_Function\함수_반환값이 있는 함수.py" />
+    <Compile Include="19_Function\함수 정의 및 호출.py" />
+    <Compile Include="19_Function\함수_매개변수가 있는 함수.py" />
+    <Compile Include="19_Function\함수_반환값이 있는 함수.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="04_Syntax\FormatPractice\" />
@@ -235,7 +235,7 @@
     <Folder Include="26_Class\" />
     <Folder Include="17_For\" />
     <Folder Include="18_While_Do_ForEach\" />
-    <Folder Include="21_Function\" />
+    <Folder Include="19_Function\" />
     <Folder Include="20_Array\" />
     <Folder Include="36_Constructor\" />
     <Folder Include="03_HelloWorld\" />
@@ -286,8 +286,8 @@
     <Content Include="16_Switch\pass.txt" />
     <Content Include="17_For\ForDemo.py.txt" />
     <Content Include="17_For\ForSum100.py.txt" />
-    <Content Include="21_Function\FunctionParameter.py.txt" />
-    <Content Include="21_Function\FunctionReturnValue.py.txt" />
+    <Content Include="19_Function\FunctionParameter.py.txt" />
+    <Content Include="19_Function\FunctionReturnValue.py.txt" />
     <Content Include="22_Interactive\pass.txt" />
     <Content Include="23_API\pass.txt" />
     <Content Include="25_Enum\pass.txt" />
