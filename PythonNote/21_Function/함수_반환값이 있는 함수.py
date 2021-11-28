@@ -5,5 +5,3 @@ def square(n):
 r = square(3)
 
 print(r)
-
-
