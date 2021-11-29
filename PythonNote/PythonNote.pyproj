@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>37_Method\ParamsDemo.py</StartupFile>
+    <StartupFile>62_Modern\MatchCase.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -135,6 +135,7 @@
     <Compile Include="59_Module\ImportModule\ModuleDefinition.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="62_Modern\MatchCase.py" />
     <Compile Include="99_Etc\FlaskHelloWorld.py" />
     <Compile Include="17_For\For.py">
       <SubType>Code</SubType>
@@ -279,6 +280,7 @@
     <Folder Include="50_Generic\" />
     <Folder Include="59_Module\" />
     <Folder Include="37_Method\" />
+    <Folder Include="62_Modern\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="01_Python\ReadMe.txt" />
