@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>62_Modern\MatchCase.py</StartupFile>
+    <StartupFile>58_IO\01_FileWrite.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -115,7 +115,7 @@
     <Compile Include="50_Generic\DictionaryOfString\DictionaryOfString.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="57_IO\OsInfo.py" />
+    <Compile Include="58_IO\OsInfo.py" />
     <Compile Include="32_Algorithms\01_SumAlgorithm\SumAlgorithm.py">
       <SubType>Code</SubType>
     </Compile>
@@ -127,8 +127,8 @@
     <Compile Include="29_Collection\DictionaryDemo.py" />
     <Compile Include="15_Else\ElIf.py" />
     <Compile Include="15_Else\Else.py" />
-    <Compile Include="57_IO\FileReadLines.py" />
-    <Compile Include="57_IO\FileWrite.py" />
+    <Compile Include="58_IO\FileReadLines.py" />
+    <Compile Include="58_IO\01_FileWrite.py" />
     <Compile Include="59_Module\ImportModule\ImportModule.py">
       <SubType>Code</SubType>
     </Compile>
@@ -181,14 +181,14 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="23_API\RandomModuleRandomFunction.py" />
-    <Compile Include="57_IO\ReadLines\ReadLines.py" />
+    <Compile Include="58_IO\ReadLines\ReadLines.py" />
     <Compile Include="09_Operator\Remainder.py" />
     <Compile Include="15_Else\ScoreGrade.py" />
     <Compile Include="27_String\StringFunction2.py" />
     <Compile Include="07_BoolCharString\StringInterpolationDemo.py" />
     <Compile Include="13_ConditionalOperator\TernaryOperator.py" />
-    <Compile Include="57_IO\TextFileRead.py" />
-    <Compile Include="57_IO\TextFileCreate.py">
+    <Compile Include="58_IO\TextFileRead.py" />
+    <Compile Include="58_IO\TextFileCreate.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="33_Object\ToStringMethod.py" />
@@ -233,7 +233,7 @@
     <Folder Include="44_Inheritance\" />
     <Folder Include="24_DateTime\" />
     <Folder Include="50_Generic\DictionaryOfString\" />
-    <Folder Include="57_IO\" />
+    <Folder Include="58_IO\" />
     <Folder Include="26_Class\" />
     <Folder Include="17_For\" />
     <Folder Include="18_While_Do_ForEach\" />
@@ -253,7 +253,7 @@
     <Folder Include="29_Collection\" />
     <Folder Include="02_Tools\" />
     <Folder Include="28_Exception\" />
-    <Folder Include="57_IO\ReadLines\" />
+    <Folder Include="58_IO\ReadLines\" />
     <Folder Include="32_Algorithms\" />
     <Folder Include="07_BoolCharString\" />
     <Folder Include="32_Algorithms\01_SumAlgorithm\" />
@@ -308,7 +308,7 @@
     <Content Include="45_Override\pass.txt" />
     <Content Include="Python 기초 입문.pdf" />
     <Content Include="07_BoolCharString\PythonBoolDemo.txt" />
-    <Content Include="57_IO\ReadLines\abc1229.txt" />
+    <Content Include="58_IO\ReadLines\abc1229.txt" />
     <Content Include="18_While_Do_ForEach\WhileDemo.py.txt" />
     <Content Include="18_While_Do_ForEach\WhileSum.py.txt" />
   </ItemGroup>
