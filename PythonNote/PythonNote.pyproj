@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>58_IO\01_FileWrite.py</StartupFile>
+    <StartupFile>58_IO\02_ReadLines\ReadLines.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -128,7 +128,7 @@
     <Compile Include="15_Else\ElIf.py" />
     <Compile Include="15_Else\Else.py" />
     <Compile Include="58_IO\FileReadLines.py" />
-    <Compile Include="58_IO\01_FileWrite.py" />
+    <Compile Include="58_IO\01_FileWrite\FileWrite.py" />
     <Compile Include="59_Module\ImportModule\ImportModule.py">
       <SubType>Code</SubType>
     </Compile>
@@ -181,7 +181,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="23_API\RandomModuleRandomFunction.py" />
-    <Compile Include="58_IO\ReadLines\ReadLines.py" />
+    <Compile Include="58_IO\02_ReadLines\ReadLines.py" />
     <Compile Include="09_Operator\Remainder.py" />
     <Compile Include="15_Else\ScoreGrade.py" />
     <Compile Include="27_String\StringFunction2.py" />
@@ -253,7 +253,8 @@
     <Folder Include="29_Collection\" />
     <Folder Include="02_Tools\" />
     <Folder Include="28_Exception\" />
-    <Folder Include="58_IO\ReadLines\" />
+    <Folder Include="58_IO\01_FileWrite\" />
+    <Folder Include="58_IO\02_ReadLines\" />
     <Folder Include="32_Algorithms\" />
     <Folder Include="07_BoolCharString\" />
     <Folder Include="32_Algorithms\01_SumAlgorithm\" />
@@ -308,7 +309,7 @@
     <Content Include="45_Override\pass.txt" />
     <Content Include="Python 기초 입문.pdf" />
     <Content Include="07_BoolCharString\PythonBoolDemo.txt" />
-    <Content Include="58_IO\ReadLines\abc1229.txt" />
+    <Content Include="58_IO\02_ReadLines\abc1229.txt" />
     <Content Include="18_While_Do_ForEach\WhileDemo.py.txt" />
     <Content Include="18_While_Do_ForEach\WhileSum.py.txt" />
   </ItemGroup>
