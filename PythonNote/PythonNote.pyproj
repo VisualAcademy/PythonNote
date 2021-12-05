@@ -28,6 +28,7 @@
     <Compile Include="04_Syntax\FormatPractice\FormatPractice.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="06_Number\FloatFunction.py" />
     <Compile Include="06_Number\NumberDemo.py">
       <SubType>Code</SubType>
     </Compile>
