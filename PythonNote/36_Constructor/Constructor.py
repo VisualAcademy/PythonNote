@@ -1,4 +1,4 @@
-# 생성자(Constructor): 클래스에서 제일 먼저 실행되는 메서드
+﻿# 생성자(Constructor): 클래스에서 제일 먼저 실행되는 메서드
 
 class MyClass:
     def __init__(self):
