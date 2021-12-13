@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>40_Lambda\LambdaExpressionArgs.py</StartupFile>
+    <StartupFile>40_Lambda\LambdaExpression.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -114,6 +114,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="39_Indexer\IteratorFibonacci.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="40_Lambda\LambdaExpression.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="40_Lambda\LambdaExpressionArgs.py">
