@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>17_For\ForEnumerate.py</StartupFile>
+    <StartupFile>40_Lambda\LambdaExpressionArgs.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -62,6 +62,9 @@
     <Compile Include="20_Array\ArrayModule.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="20_Array\list_demo.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="24_DateTime\CalendarDemo.py">
       <SubType>Code</SubType>
     </Compile>
@@ -111,6 +114,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="39_Indexer\IteratorFibonacci.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="40_Lambda\LambdaExpressionArgs.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="40_Lambda\LambdaExpressionWithPredicate.py">
