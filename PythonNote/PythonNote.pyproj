@@ -126,7 +126,7 @@
     <Compile Include="40_Lambda\LambdaExpressionWithPredicate.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="44_Inheritance\InheritanceDemo.py">
+    <Compile Include="43_Inheritance\InheritanceDemo.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="50_Generic\DictionaryOfString\DictionaryOfString.py">
@@ -247,7 +247,7 @@
     <Folder Include="32_Algorithms\12_GroupAlgorithm\" />
     <Folder Include="32_Algorithms\ArithmeticSequence\" />
     <Folder Include="33_Object\" />
-    <Folder Include="44_Inheritance\" />
+    <Folder Include="43_Inheritance\" />
     <Folder Include="24_DateTime\" />
     <Folder Include="50_Generic\DictionaryOfString\" />
     <Folder Include="58_IO\" />
@@ -299,6 +299,7 @@
     <Folder Include="59_Module\" />
     <Folder Include="37_Method\" />
     <Folder Include="62_Modern\" />
+    <Folder Include="47_OOP\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="01_Python\ReadMe.txt" />
