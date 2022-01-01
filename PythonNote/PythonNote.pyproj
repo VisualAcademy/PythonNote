@@ -71,13 +71,14 @@
     <Compile Include="24_DateTime\DateTimeDemo.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="27_Collection\ListMethod.py" />
     <Compile Include="27_String\StringClassNote\StringClassNote.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="27_String\StringFunction.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="29_Collection\ListNote.py">
+    <Compile Include="27_Collection\ListNote.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="32_Algorithms\02_CountAlgorithm\CountAlgorithm.py" />
@@ -140,7 +141,7 @@
     <Compile Include="13_ConditionalOperator\ConditionalOperator.py" />
     <Compile Include="36_Constructor\Constructor.py" />
     <Compile Include="36_Constructor\ConstructorParameter.py" />
-    <Compile Include="29_Collection\DictionaryDemo.py" />
+    <Compile Include="27_Collection\DictionaryDemo.py" />
     <Compile Include="15_Else\ElIf.py" />
     <Compile Include="15_Else\Else.py" />
     <Compile Include="58_IO\FileReadLines.py" />
@@ -178,7 +179,7 @@
     <Compile Include="08_ReadLine\InputDemo.py" />
     <Compile Include="08_ReadLine\IntFloat.py" />
     <Compile Include="40_Lambda\LambdaFunction.py" />
-    <Compile Include="29_Collection\ListDemo.py">
+    <Compile Include="27_Collection\ListDemo.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="19_Function\MaxFunction.py" />
@@ -266,7 +267,7 @@
     <Folder Include="27_String\" />
     <Folder Include="05_Variable\" />
     <Folder Include="08_ReadLine\" />
-    <Folder Include="29_Collection\" />
+    <Folder Include="27_Collection\" />
     <Folder Include="02_Tools\" />
     <Folder Include="28_Exception\" />
     <Folder Include="58_IO\01_FileWrite\" />
