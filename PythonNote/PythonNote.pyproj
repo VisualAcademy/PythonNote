@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>08_ReadLine\GetTypeDemo.py</StartupFile>
+    <StartupFile>05_Variable\VariableInitialize.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="04_Syntax\FormatPractice\FormatPractice.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="05_Variable\VariableI.py" />
+    <Compile Include="05_Variable\VariableInitialize.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="06_Number\FloatFunction.py" />
