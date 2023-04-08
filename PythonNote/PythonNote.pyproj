@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>99_Etc\min_value_python.py</StartupFile>
+    <StartupFile>99_Etc\graph_dfs.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -178,6 +178,7 @@
     <Compile Include="19_Function\FunctionParameter.py" />
     <Compile Include="19_Function\FunctionReturnValue.py" />
     <Compile Include="19_Function\GetSumTwoNumber.py" />
+    <Compile Include="99_Etc\graph_dfs.py" />
     <Compile Include="99_Etc\HeartTest.py" />
     <Compile Include="03_HelloWorld\HelloWorld.py">
       <SubType>Code</SubType>
