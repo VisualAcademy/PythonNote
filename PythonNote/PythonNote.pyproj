@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>99_Etc\graph_dfs.py</StartupFile>
+    <StartupFile>17_For\ForSum.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -55,6 +55,7 @@
     <Compile Include="17_For\ForEnumerate.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="17_For\ForSum.py" />
     <Compile Include="18_While_Do_ForEach\ForIn.py">
       <SubType>Code</SubType>
     </Compile>
