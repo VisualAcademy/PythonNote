@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>17_For\ForSum.py</StartupFile>
+    <StartupFile>99_Etc\sort_objects.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -240,6 +240,7 @@
     <Compile Include="19_Function\함수 정의 및 호출.py" />
     <Compile Include="19_Function\함수_매개변수가 있는 함수.py" />
     <Compile Include="19_Function\함수_반환값이 있는 함수.py" />
+    <Compile Include="99_Etc\sort_objects.py" />
     <Compile Include="99_Etc\min_value_python.py" />
   </ItemGroup>
   <ItemGroup>
