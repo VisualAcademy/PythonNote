@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>99_Etc\sort_objects.py</StartupFile>
+    <StartupFile>27_String\StringCopy.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -88,6 +88,7 @@
     <Compile Include="27_String\StringClassNote\StringClassNote.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="27_String\StringCopy.py" />
     <Compile Include="27_String\StringFunction.py">
       <SubType>Code</SubType>
     </Compile>
