@@ -28,7 +28,7 @@
     <Compile Include="04_Syntax\FormatPractice\FormatPractice.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="05_Variable\VariableI.py" />
+    <Compile Include="05_Variable\Variable.py" />
     <Compile Include="05_Variable\VariableInitialize.py">
       <SubType>Code</SubType>
     </Compile>
