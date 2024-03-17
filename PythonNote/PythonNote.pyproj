@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>27_String\StringCopy.py</StartupFile>
+    <StartupFile>07_BoolCharString\improved_string_formatting.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -36,6 +36,7 @@
     <Compile Include="06_Number\NumberDemo.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="07_BoolCharString\improved_string_formatting.py" />
     <Compile Include="07_BoolCharString\StringInterpolation.py">
       <SubType>Code</SubType>
     </Compile>
