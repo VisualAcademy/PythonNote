@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>717f09f0-ba24-4958-9688-8b533a889c38</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>07_BoolCharString\improved_string_formatting.py</StartupFile>
+    <StartupFile>99_Example\spiral_matrix.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -244,6 +244,7 @@
     <Compile Include="19_Function\함수_반환값이 있는 함수.py" />
     <Compile Include="99_Etc\sort_objects.py" />
     <Compile Include="99_Etc\min_value_python.py" />
+    <Compile Include="99_Example\spiral_matrix.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="04_Syntax\FormatPractice\" />
@@ -318,6 +319,7 @@
     <Folder Include="37_Method\" />
     <Folder Include="62_Modern\" />
     <Folder Include="47_OOP\" />
+    <Folder Include="99_Example\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="01_Python\ReadMe.txt" />
